@@ -15,7 +15,7 @@ https://github.com/DavyK17/module-federation-svelte-5
 
 1. Open two terminals and move into each folder: `cd remote` (terminal 1) and `cd host` (terminal 2)
 2. Install dependencies in both terminals with `npm install`
-3. Use `npm run build && npm run preview` to build a serve the `remote` first, then the `host`
+3. Use `npm run build && npm run preview` to build and serve the `remote` first, then the `host`
 4. Visit the `remote` at http://localhost:4173 and the `host` at http://localhost:4174
 
 ### What is Expected?
